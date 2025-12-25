@@ -1,0 +1,5 @@
+{
+  "name": "PinkStudy Architect",
+  "description": "A high-performance pedagogical roadmap generator that transforms raw course documents into structured, actionable study plans using the Gemini AI.",
+  "requestFramePermissions": []
+}
